@@ -1,3 +1,9 @@
+![Text descriptiv imagine](https://t4.ftcdn.net/jpg/02/89/58/51/360_F_289585146_KrE8Cg2iaFR0fgV3nauV9Xu4UdsUGKmR.jpg)
+
+**Cuprins**
+
+[Elemente avansate de Markdown](avansate.md)
+
 # Implementarea relatiilor in Markdown
 
 ## Implementarea relatiilor/legaturilor catre alte fisiere
@@ -36,6 +42,8 @@ Iata un link [important] catre site-ul google.
 #### Link-uri catre imagini
 
 ![Text descriptiv imagine](https://t4.ftcdn.net/jpg/02/89/58/51/360_F_289585146_KrE8Cg2iaFR0fgV3nauV9Xu4UdsUGKmR.jpg)
+
+
 
 
 
