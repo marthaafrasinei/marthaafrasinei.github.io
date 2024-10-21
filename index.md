@@ -18,7 +18,7 @@ Tipuri de linkuri in Markdown:
 
 **variante**
 
-1.[Textul linkului](https://google.com)
+1.[Textul linkului- descriptiv, care apare cand nu se poate accesa link-ul sau cand tinem mouse-ul pe el](https://google.com)
 2.[Textul linkului](https://google.com accesare site Google)
 
 ### Linkurile referentiate
@@ -32,6 +32,11 @@ varianta prescurtata a link-urilor referentiate
 Iata un link [important] catre site-ul google.
 
 [important]: https://google.com
+
+#### Link-uri catre imagini
+
+![Text descriptiv imagine](https://t4.ftcdn.net/jpg/02/89/58/51/360_F_289585146_KrE8Cg2iaFR0fgV3nauV9Xu4UdsUGKmR.jpg)
+
 
 
 
