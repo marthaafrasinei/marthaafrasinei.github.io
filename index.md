@@ -12,8 +12,28 @@ De asemenea, prin aceste link-uri se pot accesa si sectiuni din pagina curenta s
 
 Tipuri de linkuri in Markdown:
 1. Linkuri clasice (normale)
-2. Linkuri referentiale
+2. Linkuri referentiate
 
 #### Linkurile clasice
 
-[Textul linkului](www.google.com)
+**variante**
+
+1.[Textul linkului](https://google.com)
+2.[Textul linkului](https://google.com accesare site Google)
+
+### Linkurile referentiate
+
+Iata un [link][link1] catre site-ul google
+
+[link1]: https://google.com
+
+varianta prescurtata a link-urilor referentiate
+
+Iata un link [important] catre site-ul google.
+
+[important]: https://google.com
+
+
+
+
+
