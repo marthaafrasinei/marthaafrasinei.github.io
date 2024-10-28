@@ -57,16 +57,23 @@ ex: Aceasta este o ecuatie: $a = b * c$
 
 Formulele "Latex" din Mathjax se introduc pe rand nou intre doua perechi de simboluri "$$"
 
-ex: $$ a = b^c (b la puterea c)
+ex: $$ a = b^c $$ (b la puterea c)
 
 ## Ridicarea la putere (superscript)
 
 Se foloseste metacaracterul `LaTeX` : `^`
 
+*Exemplu*
+
+$$a= b^c$$
+
 Subscript- indice:
 
 Se foloseste metacaracterul `LaTeX` : `_`
 
+*Exemplu*
+
+$$ a_i = b^c $$
 
 
 
