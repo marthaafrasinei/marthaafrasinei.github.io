@@ -75,8 +75,47 @@ Se foloseste metacaracterul `LaTeX` : `_`
 
 $$ a_i = b^c $$
 
+## Gruparea elementelor din formule
 
+Elementele din formule se grupeaza prin metacaracterul "{" si "}"
 
+$$ 10^{10} $$
+
+## Litere grecesti
+
+*Exemplu:*
+
+`\alpha` : alfa litera mica ($\alpha$)
+
+`\Alpha` : alfa litera mare ($\Alpha$)
+
+## Parantezele 
+
+- Parantezele rotunde se scriu direct (nu au vreun inteles special)
+- Parantezele drepte se scriu direct (nu au...)
+- Parantezele acolade, deoarece sunt metacaractere de grupare, vor fi renderizate corect daca sunt escapate de intelesul original punand in fata lor metacaracterul \
+
+*Exemplu:*
+
+$$ a = (b + c)^{3x} - [3 + 6x]$$
+
+## Fractiile
+
+*Exemplu:*
+
+`\frac{numarator}{numitor}`
+
+$$\frac{a+b+c}{d-c}$$
+
+## Semnele de multiplicare respectiv de diviziune
+
+*Exemple:*
+
+$$a= c + 10 \times x $$
+
+$$a= c + 10 \cdot x $$
+
+$$a = b \div c$$
 
 
 
