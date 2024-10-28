@@ -1,9 +1,12 @@
 ![Text descriptiv imagine](https://t4.ftcdn.net/jpg/02/89/58/51/360_F_289585146_KrE8Cg2iaFR0fgV3nauV9Xu4UdsUGKmR.jpg)
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 **Cuprins**
 
 [Elemente avansate de Markdown](avansate.md)
 [Formule cu mathcharts](mathcharts.md)
+
+
 
 ***
 
@@ -45,6 +48,24 @@ Iata un link [important] catre site-ul google.
 #### Link-uri catre imagini
 
 ![Text descriptiv imagine](https://t4.ftcdn.net/jpg/02/89/58/51/360_F_289585146_KrE8Cg2iaFR0fgV3nauV9Xu4UdsUGKmR.jpg)
+
+# Inserarea ecuatiilor si formulelor Mathjax
+
+Formulele Mathjax sunt inserate in aceeasi linie daca sunt plasate intr-o pereche de simboluri "$"
+
+ex: Aceasta este o ecuatie: $a = b * c$
+
+Formulele "Latex" din Mathjax se introduc pe rand nou intre doua perechi de simboluri "$$"
+
+ex: $$ a = b^c (b la puterea c)
+
+## Ridicarea la putere (superscript)
+
+Se foloseste metacaracterul `LaTeX` : `^`
+
+Subscript- indice:
+
+Se foloseste metacaracterul `LaTeX` : `_`
 
 
 
