@@ -3,6 +3,7 @@
 **Cuprins**
 
 [Elemente avansate de Markdown](avansate.md)
+[Formule cu mathcharts](mathcharts.md)
 
 ***
 
